@@ -1,12 +1,22 @@
 # Neural_Network_For_Recommendation
 
-
+A Graph Neural Network-based recommender system for personalized music recommendation using implicit feedback.
 
 ## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+To get started with this project, follow these steps to set up and run the project locally.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+### Prerequisites
+
+Ensure you have Python installed on your system. This project requires Python 3.8 or later.
+
+### Installation
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://git.cs.kent.ac.uk/jj469/neural_network_for_recommendation.git
+   cd neural_network_for_recommendation
 
 ## Add your files
 
