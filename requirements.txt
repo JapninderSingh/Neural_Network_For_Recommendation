@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+torch
+scipy
+joblib
+dask[dataframe]
+category_encoders
