@@ -100,8 +100,8 @@ streamlit run app.py
 
 Then open your browser to:
 
-- `http://localhost:8503` (if local)
-- Or use your local IP (e.g., `http://192.168.1.42:8503`) for other devices on same Wi-Fi
+- `http://localhost:8502` (if local)
+- Or use your local IP (e.g., `http://192.168.1.42:8502`) for other devices on same Wi-Fi
 
 ---
 
