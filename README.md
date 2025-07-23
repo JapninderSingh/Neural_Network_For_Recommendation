@@ -124,9 +124,7 @@ The system computes:
 ##  Author
 
 **Japninder Singh**  
-MSc Artificial Intelligence  
-University of Kent  
-GitLab: [jj469@kent.ac.uk](mailto:jj469@kent.ac.uk)
+
 
 ---
 
